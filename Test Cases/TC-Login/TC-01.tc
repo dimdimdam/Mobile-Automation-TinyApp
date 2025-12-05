@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>without credentials</description>
+   <name>TC-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c647dbe0-e2a7-4eb8-9443-1645d5c75de6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>mobile</name>
+   <tag></tag>
+   <UUID>f8e35822-c964-4877-8a4f-4902cf02f3ca</UUID>
+   <createdEdition>FREE</createdEdition>
+   <createdVersion>10.3.0</createdVersion>
+   <freeLicense>true</freeLicense>
+   <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>10.3.0</modifiedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\USER\Katalon Studio\mobile\mobile.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>MOBILE</type>
+</Project>
